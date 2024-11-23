@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Open-source AWS projects and Java Spring Boot applications**
 
-- 🤝 I’m looking for help with **Advanced Angular and frontend performance optimization**
+- 🤝 I’m looking for help with **Frontend performance optimization and scaling applications with Docker and Kubernetes**
 
 - 💬 Ask me about **React, Java Spring Boot, and creating serverless applications**
 
